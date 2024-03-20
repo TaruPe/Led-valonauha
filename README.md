@@ -26,7 +26,8 @@ Tässä alla olevassa kuvassa näkyy kahta eri väriä oleva ominaisuus, jossa o
 
 ### RGB-lednauha demovideo
 Tästä pystyt katsomaan vielä tarkemmin demovideon, jossa näytetään kuinka kaukosäädintä painamalla saadaan eri valotoiminnallisuuksia
-![RGB-lednauha demovideo](https://youtube.com/shorts/EofRBfIiMEs?feature=share)
+[![RGB-lednauha demovideo](https://youtube.com/shorts/EofRBfIiMEs?feature=share)](https://youtube.com/shorts/EofRBfIiMEs?feature=share)
+
 
 
 

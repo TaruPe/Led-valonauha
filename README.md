@@ -17,7 +17,7 @@ Tässä nähdään yksivärinen led-nauha kun halutaan valita vain yksi väri tu
 ![RGB-lednauha yksivärinen](https://github.com/TaruPe/Led-valonauha/blob/main/Img/RGBvalk.png)
 
 ### RGB-lednauha monivärinen
-Tässä on nähdään monivärinen valo, mikäli halutaan valita räväk'mmän tunnelman haluttuun tilaan
+Tässä on monivärinen led-nauhan ominaisuus kun halutaan valita rohkeampi tunnelma haluttuun tilaan
 ![RGB-lednauha monivärinen](https://github.com/TaruPe/Led-valonauha/blob/main/Img/RGBmoni.png)
 
 ### RGB-lednauha kaksivärinen

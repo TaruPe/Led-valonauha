@@ -1,6 +1,6 @@
 # 💡RGB-lednauha ryhmäprojekti
 
-Projektin tuote on kauko-ohjattava led-nauha.
+Ensimmäisen vuosikurssin projektin tuote on kauko-ohjattava led-nauha.
 
 Tässä projektissa on toteutettu mikroprosessori-sovellus, joka monitoroi ympäristöään sensorien avulla ja ohjaa mikroprosessoriin kytkettyä laitteistoa sensorien signaalien perusteella.
 

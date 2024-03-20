@@ -9,22 +9,22 @@ Projektissa on käytetty metrin mittaista ohjelmoitavaa RGB-ledinauhaa, johon on
 
 
 
-## RGB-lednauha⚪🔴🟣🔵
+## RGB-lednauha
 Eri ledvalonauhan ominaisuuksia
 
-### RGB-lednauha yksivärinen⚪
+### RGB-lednauha yksivärinen
 Tässä nähdään yksivärinen led-nauha kun halutaan valita vain yksi väri tuomaan valoa tai tunnelmaa haluttuun tilaan
 ![RGB-lednauha yksivärinen](https://github.com/TaruPe/Led-valonauha/blob/main/Img/RGBvalk.png)
 
-### RGB-lednauha monivärinen🔵
+### RGB-lednauha monivärinen
 Tässä on monivärinen led-nauhan ominaisuus kun halutaan valita rohkeampi ja värikkäämpi tunnelma haluttuun tilaan
 ![RGB-lednauha monivärinen](https://github.com/TaruPe/Led-valonauha/blob/main/Img/RGBmoni.png)
 
-### RGB-lednauha kaksivärinen🟣
+### RGB-lednauha kaksivärinen
 Tässä alla olevassa kuvassa näkyy kahta eri väriä oleva ominaisuus, jossa on saatu valo liikkumaan matomaisesti.
 ![RGB-lednauha kaksivärinen](https://github.com/TaruPe/Led-valonauha/blob/main/Img/RGBled.png)
 
-### RGB-lednauha demovideo🟢
+### RGB-lednauha demovideo
 Tästä pystyt katsomaan vielä tarkemmin demovideon, jossa näytetään kuinka kaukosäädintä painamalla saadaan eri valotoiminnallisuuksia
 [![RGB-lednauha demovideo](https://youtube.com/shorts/EofRBfIiMEs?feature=share)](https://youtube.com/shorts/EofRBfIiMEs?feature=share)
 

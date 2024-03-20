@@ -13,7 +13,7 @@ Projektissa on käytetty metrin mittaista ohjelmoitavaa RGB-ledinauhaa, johon on
 Eri ledvalonauhan ominaisuuksia
 
 ### RGB-lednauha yksivärinen
-Tässä nähdään yksivärinen valo, mikäli halutaan valita vain yksi väri tuomaan valoa haluttuun tilaan
+Tässä nähdään yksivärinen led-nauha kun halutaan valita vain yksi väri tuomaan valoa tai tunnelmaa haluttuun tilaan
 ![RGB-lednauha yksivärinen](https://github.com/TaruPe/Led-valonauha/blob/main/Img/RGBvalk.png)
 
 ### RGB-lednauha kaksivärinen
